@@ -24,7 +24,7 @@ form{
 #saida{
     width: 450px;
     height: 600px;
-    border: 2px black solid;
+    border: 2px rgb(37, 34, 34) solid;
     border-radius: 20px;
     background-color: white;
 }
@@ -33,7 +33,7 @@ form{
     display: flex;
     flex-direction: column;
     align-items: baseline;
-    padding: ;
+    
 }
 
 p{
